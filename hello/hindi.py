@@ -46,7 +46,7 @@ def speech_to_text():
             return ""
 
 
-genai.configure(api_key="AIzaSyB3mI8isXKm1TWQSOjU-hsdEXxv8I5n4nk")
+genai.configure(api_key="")
 
 # Create the model
 generation_config = {
