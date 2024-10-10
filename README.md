@@ -40,7 +40,7 @@ Unlike other call screening services that rely on a database of flagged numbers,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/realtime-scam-call-detection.git
+   git clone https://github.com/yourusername/Scam-Guard.git
    ```
 2. Install the required dependencies:
    ```bash
