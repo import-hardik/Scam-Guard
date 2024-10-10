@@ -1,6 +1,3 @@
-Here’s a professional and engaging GitHub README for your project:
-
----
 
 # Real-Time Scam Call Detection
 
